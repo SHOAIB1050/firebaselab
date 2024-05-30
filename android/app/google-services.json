@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866268251748",
+    "project_id": "todaypro-c5631",
+    "storage_bucket": "todaypro-c5631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866268251748:android:5361b72f674ba1a340c171",
+        "android_client_info": {
+          "package_name": "com.uaflab.firebaselab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuzUHv_o5yRBgiEoxv9lCbqj3iU84BUhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
